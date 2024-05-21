@@ -28,6 +28,6 @@ public class Datagymcontroller {
             gym.setPemilik(frame.getFpenyewa().getText());
             gym.setPemilik(frame.getFpenyewa().getText());
             gym.setPemilik(frame.getFpenyewa().getText());
-        }
+        } //CONTROLLER NYA BELOM SELESAII
     }
 }
